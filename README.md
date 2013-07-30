@@ -1,4 +1,4 @@
-Sype Detox
+Skype Detox
 ===========
 
 
